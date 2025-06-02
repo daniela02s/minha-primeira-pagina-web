@@ -79,6 +79,10 @@ a{
     text-decoration: none;
 }
 
+a:hover {
+  color: #FF00FF;
+}
+
 .principal a{
     color: white;
     text-decoration: underline;
